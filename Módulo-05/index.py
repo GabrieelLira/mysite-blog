@@ -4,7 +4,6 @@ import csv
 import random
 import concurrent.futures
 
-
 from bs4 import BeautifulSoup
 
 # global headers to be used for requests
